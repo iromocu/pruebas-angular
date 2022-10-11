@@ -1,5 +1,5 @@
 import { obtenerSuperHeroes } from './arrays';
-describe('Pruebas de arreglos', () =>{
+xdescribe('Pruebas de arreglos', () =>{
     it('Debe retornar al menos 3 superheroes', () => {
         const resp = obtenerSuperHeroes()
         expect(resp.length).toBeGreaterThanOrEqual(3)

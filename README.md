@@ -3,7 +3,7 @@
 1. Clonar proyecto
 
 2. Instalar paquetes
- ````
+ ```
  npm install
  ```
 
